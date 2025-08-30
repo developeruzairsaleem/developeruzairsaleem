@@ -49,9 +49,9 @@
 
 ### What is Diffed.gg?
 
-**Diffed.gg** is a matchmaking and gaming services platform tailored for competitive and casual gamers. It offers premium experiences such as coaching, duo queueing, and exclusive content subscriptions. Key features include seamless authentication, integrated payments, service browsing and booking, admin dashboards, and player feedback systems.
+**Diffed.gg** is a matchmaking and gaming services platform tailored for competitive and casual gamers. It offers premium experiences such as coaching, duo queueing, and exclusive rank based boosting. Key features include seamless authentication, integrated payments Checkout(Stripe/Paypal), Inplatform wallet System, Realtime Chat with coaches, admin dashboards, and player feedback systems.
 
-> Level up your gameplay or get exclusive perks—all in one place.
+> Level up your gameplay with top rated players.
 
 ---
 
