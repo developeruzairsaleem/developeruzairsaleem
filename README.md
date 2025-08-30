@@ -37,12 +37,21 @@
 
 ## ✨ Featured Project
 
-- **[diffed-swart.vercel.app](https://diffed-swart.vercel.app)**
-   <br>
-  <img src="project-diffed.png" alt="Screenshot of Diffed Swart Project" width="600"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/next.svg" alt="Next.js" width="28"/>  
-  My flagship project showcasing advanced full stack development, modern UI, and best practices.
+<p align="center">
+  <img src="project-diffed.png" alt="Screenshot of Diffed.gg Platform" width="600"/>
+</p>
+
+<p align="center">
+  <a href="https://diffed-swart.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Live%20Site-Next.js-blue?style=for-the-badge&logo=vercel" alt="Visit Diffed.gg"/>
+  </a>
+</p>
+
+### What is Diffed.gg?
+
+**Diffed.gg** is a matchmaking and gaming services platform tailored for competitive and casual gamers. It offers premium experiences such as coaching, duo queueing, and exclusive content subscriptions. Key features include seamless authentication, integrated payments, service browsing and booking, admin dashboards, and player feedback systems.
+
+> Level up your gameplay or get exclusive perks—all in one place.
 
 ---
 
