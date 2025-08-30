@@ -9,14 +9,9 @@
 </p>
 
 ---
-**Languages:** JavaScript (ES6+), TypeScript, Python, SQL  
-**Frameworks & Libraries:** React, Next.js, Node.js, Express, Redux, TailwindCSS, Material-UI, Ant Design  
-**Databases & ORM:** PostgreSQL, MongoDB, Prisma, Mongoose  
-**Testing:** Jest, SuperTest, React Testing Library, Postman, Insomnia  
-**Security:** OAuth 2.0, JWT, Session Management  
-**Tools:** Git, GitHub, Cursor, VS Code, npm, pnpm, Yarn, Chrome DevTools, Terminal  
-**Cloud & Deployment:** Vercel, Netlify, Render  
-**CI/CD & DevOps:** GitHub Actions, Docker, Kubernetes  
+## 🧑‍💻 Technical Skills
+
+JavaScript (ES6+), TypeScript, Python, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Prisma, Jest, Git, Docker, AWS, Vercel, CI/CD & more.
 
 ## 🌍 Connect with me
 
