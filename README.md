@@ -37,7 +37,10 @@
 
 ## ✨ Featured Project
 
-- **[diffed-swart.vercel.app](https://diffed-swart.vercel.app)**  
+- **[diffed-swart.vercel.app](https://diffed-swart.vercel.app)**
+   <br>
+  <img src="project-diffed.png" alt="Screenshot of Diffed Swart Project" width="600"/>
+  <br>
   <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/next.svg" alt="Next.js" width="28"/>  
   My flagship project showcasing advanced full stack development, modern UI, and best practices.
 
