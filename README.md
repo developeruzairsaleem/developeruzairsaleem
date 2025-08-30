@@ -6,7 +6,6 @@
   <b>Full Stack Developer | Next.js | TypeScript | Python | Prisma | Tailwind | UI Frameworks</b>
   <br>
   🚀 Passionate about building scalable web applications and crafting seamless user experiences.<br>
-  <b>Flagship project:</b> <a href="https://diffed-swart.vercel.app">diffed-swart.vercel.app</a>
 </p>
 
 ---
