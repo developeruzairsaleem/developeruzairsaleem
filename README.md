@@ -17,10 +17,10 @@ Tailwind · Docker · AWS · Vercel
 
 ### stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developeruzairsaleem&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeruzairsaleem&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-</p>
+![repos](https://img.shields.io/badge/repos-96-blue?style=flat-square)
+![followers](https://img.shields.io/badge/followers-9-brightgreen?style=flat-square)
+![hireable](https://img.shields.io/badge/hireable-yes-success?style=flat-square)
+![location](https://img.shields.io/badge/based%20in-islamabad%2C%20pk-blueviolet?style=flat-square)
 
 ---
 
