@@ -15,15 +15,6 @@ Tailwind · Docker · AWS · Vercel
 
 ---
 
-### stats
-
-![repos](https://img.shields.io/badge/repos-96-blue?style=flat-square)
-![followers](https://img.shields.io/badge/followers-9-brightgreen?style=flat-square)
-![hireable](https://img.shields.io/badge/hireable-yes-success?style=flat-square)
-![location](https://img.shields.io/badge/based%20in-islamabad%2C%20pk-blueviolet?style=flat-square)
-
----
-
 ### find me
 
 <p>
