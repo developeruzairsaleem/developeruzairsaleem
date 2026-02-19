@@ -4,7 +4,7 @@ i write code that (usually) works. full stack dev from islamabad — next.js, ty
 
 - 🛠️ currently breaking and fixing things in production
 - 🌙 timezone: pk (async-friendly, i promise)
-- 💬 ask me about anything web — or just say hi
+- 🤖 always keeping up with what's happening in ai
 
 ---
 
