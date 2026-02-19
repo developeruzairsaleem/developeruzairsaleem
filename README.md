@@ -1,4 +1,3 @@
-
 hey, i'm uzair 👋
 
 full stack dev based in islamabad, pakistan. i build things with Next.js, TypeScript, and Python — mostly web apps, sometimes weird side projects, occasionally stuff that actually ships.
@@ -16,21 +15,11 @@ Tailwind · Docker · AWS · Vercel
 
 ---
 
-### ✨ something i built
-
-**[Diffed.gg](https://diffed-swart.vercel.app)** — a matchmaking platform for gamers. coaching, duo queues, rank boosting, real-time chat, stripe payments, the whole thing.
-
----
-
-### stats (for the nerds)
+### stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=developeruzairsaleem&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeruzairsaleem&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developeruzairsaleem&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 </p>
 
 ---
