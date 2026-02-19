@@ -3,8 +3,6 @@ hey, i'm uzair 👋
 
 full stack dev based in islamabad, pakistan. i build things with Next.js, TypeScript, and Python — mostly web apps, sometimes weird side projects, occasionally stuff that actually ships.
 
-currently studying AI at SZABIST while freelancing and working at [@anqa-it](https://github.com/anqa-it). yes, both. yes, it's a lot.
-
 ---
 
 ### what i work with
