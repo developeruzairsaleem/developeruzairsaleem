@@ -1,10 +1,14 @@
 hey, i'm uzair 👋
 
-full stack dev based in islamabad, pakistan. i build things with Next.js, TypeScript, and Python — mostly web apps, sometimes weird side projects, occasionally stuff that actually ships.
+i write code that (usually) works. full stack dev from islamabad — next.js, typescript, python. building things on the internet since it was a hobby, now it pays rent.
+
+- 🛠️ currently breaking and fixing things in production
+- 🌙 timezone: pk (async-friendly, i promise)
+- 💬 ask me about anything web — or just say hi
 
 ---
 
-### what i work with
+### stack
 
 ```
 TypeScript · JavaScript · Python
@@ -29,8 +33,4 @@ Tailwind · Docker · AWS · Vercel
   </a>
 </p>
 
-open to freelance, collabs, or just talking tech. hit me up.
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=developeruzairsaleem&style=flat&color=blueviolet"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=developeruzairsaleem&style=flat&color=blueviolet"/>
