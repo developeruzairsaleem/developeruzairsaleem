@@ -6,7 +6,7 @@ Full-stack engineer in Islamabad 🇵🇰 — I take products from Postgres sche
 
 - **[Indiecator](https://indiecator.com)** — Subscription analytics for SaaS founders. Point-in-time-accurate MRR from a hybrid Stripe invoice + event ledger, kept correct by webhooks, a backfill, and a daily reconciliation cron. · [code](https://github.com/developeruzairsaleem/indiecator)
 - **[Diffed.gg](https://diffed-swart.vercel.app)** — Two-sided gaming-services marketplace. Real-time order queue, provider wallet and payouts, Stripe + PayPal checkout. · [code](https://github.com/developeruzairsaleem/diffedgg)
-- **[Sat-Raj](https://satraj.inc)** — Logistics dispatch platform. Multi-gate address resolution, Samsara geofencing, and a .NET bridge to on-prem QuickBooks.
+- **[Sat-Raj](https://satraj.inc)** — Logistics dispatch platform. Multi-gate address resolution, Samsara geofencing, and idempotent reconciliation jobs.
 
 ---
 
