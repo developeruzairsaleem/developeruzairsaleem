@@ -1,4 +1,4 @@
-Hey, I'm Uzair — I build web apps, front to back.
+Hey, I'm Uzair, a full-stack developer. I build web apps for a living.
 
 ---
 
