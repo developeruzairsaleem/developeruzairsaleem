@@ -1,4 +1,4 @@
-Full-stack engineer. I build web apps from the schema to the screen — mostly things that handle real money, like payments, marketplaces, and analytics.
+Full-stack engineer. I build web apps from the schema to the screen.
 
 ---
 
