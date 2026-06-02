@@ -1,4 +1,4 @@
-Full-stack engineer. I build web apps from the schema to the screen.
+Hey, I'm Uzair — I build web apps, front to back.
 
 ---
 
