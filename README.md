@@ -8,7 +8,7 @@ Full-stack engineer. I build web apps from the schema to the screen — mostly t
 TypeScript · JavaScript · Python
 Next.js · React · Node.js · Express
 PostgreSQL · Prisma · Supabase · Redis
-Stripe · Docker · AWS · Cloudflare · Vercel
+Docker · AWS · Cloudflare · Vercel
 ```
 
 ---
