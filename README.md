@@ -1,39 +1,24 @@
-hey, i'm uzair 👋
-
-i write code that (usually) works. full stack dev from islamabad — next.js, typescript, python. building things on the internet since it was a hobby, now it pays rent.
-
-- 🛠️ currently breaking and fixing things in production
-- 🌙 timezone: pk (async-friendly, i promise)
-- 🤖 always keeping up with what's happening in ai
+Full-stack engineer in Islamabad 🇵🇰 — I take products from Postgres schema to deployed UI in TypeScript, Next.js, and Node. Most of what I build are real-money systems: payments, marketplaces, and analytics.
 
 ---
 
-### stack
+### Selected work
+
+- **[Indiecator](https://indiecator.com)** — Subscription analytics for SaaS founders. Point-in-time-accurate MRR from a hybrid Stripe invoice + event ledger, kept correct by webhooks, a backfill, and a daily reconciliation cron. · [code](https://github.com/developeruzairsaleem/indiecator)
+- **[Diffed.gg](https://diffed-swart.vercel.app)** — Two-sided gaming-services marketplace. Real-time order queue, provider wallet and payouts, Stripe + PayPal checkout. · [code](https://github.com/developeruzairsaleem/diffedgg)
+- **[Sat-Raj](https://satraj.inc)** — Logistics dispatch platform. Multi-gate address resolution, Samsara geofencing, and a .NET bridge to on-prem QuickBooks.
+
+---
+
+### Stack
 
 ```
 TypeScript · JavaScript · Python
 Next.js · React · Node.js · Express
-PostgreSQL · MongoDB · Prisma
-Tailwind · Docker · AWS · Vercel
+PostgreSQL · Prisma · Supabase · Redis
+Stripe · Docker · AWS · Cloudflare · Vercel
 ```
 
 ---
 
-### find me
-
-<p>
-  <a href="https://uzairsaleem.dev">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/uzair-saleem-5a399825a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/uzairsaleemdev">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:uzairsaleemdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=developeruzairsaleem&style=flat&color=blueviolet"/>
+[Portfolio](https://uzairsaleem.dev) · [LinkedIn](https://www.linkedin.com/in/uzair-saleem-5a399825a/) · [X](https://x.com/uzairsaleemdev) · [Email](mailto:uzairsaleemdev@gmail.com)
