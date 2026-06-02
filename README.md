@@ -22,6 +22,9 @@ Tailwind · Docker · AWS · Vercel
 ### find me
 
 <p>
+  <a href="https://uzairsaleem.dev">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/uzair-saleem-5a399825a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
