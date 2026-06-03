@@ -1,12 +1,9 @@
-Hey, I'm Uzair, a full-stack developer. I build web apps for a living.
 
----
-
-### Stack
+### My Stack
 
 ```
 TypeScript · JavaScript · Python
-Next.js · React · Node.js · Express
+Next.js · React · Node.js · Express . FastAPI
 PostgreSQL · Prisma · Supabase · Redis
 Docker · AWS · Cloudflare · Vercel
 ```
